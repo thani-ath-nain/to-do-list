@@ -1,2 +1,1 @@
-# to-do-list
-This a to do list project.
+todoList made For The Odin Project. 
